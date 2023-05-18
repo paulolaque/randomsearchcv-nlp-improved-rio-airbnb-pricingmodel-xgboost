@@ -1,6 +1,6 @@
-# randomsearchcv-nlp-improved-rio-airbnb-pricingmodel-xgboost
+# XGBoost Feature Importance Pricing Model tunned with Randomizedsearchcv and NLP for Rio Airbnb
 
-Perform feature importance analysis for Airbnb pricing in Rio de Janeiro using a combination of various data preprocessing techniques, including get_dummies for categorical variables and NLP (Natural Language Processing). The model utilized for this task is XGBoost, which was fine-tuned using RandomSearchCV. To enhance its performance, the model was also configured to run on a GPU.
+Perform feature importance analysis for Airbnb pricing in Rio de Janeiro using a combination of various data preprocessing techniques, including get_dummies for categorical variables and NLP (Natural Language Processing). The model utilized for this task is XGBoost, which was fine-tuned using RandomizedSearchCV. To enhance its performance, the model was also configured to run on a GPU.
 
 #### Author: Paulo Gabriel Dantas Laque [Linkedin](https://www.linkedin.com/in/paulogabriellaque/) [Github](https://github.com/paulolaque)
 
