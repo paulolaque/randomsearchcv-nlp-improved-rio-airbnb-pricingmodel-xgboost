@@ -39,7 +39,7 @@ For this I used data from Airbnb (listings.csv) compiled in 20 June, 2022 for Ri
 ## File Descriptions <a name="files"></a>
 
 There are 1 notebooks available here to showcase work related to the above questions:
- [Airbnb_Rio_de_Janeiro_Pricing_Model_using_XGBoost_Random_Forest.ipynb](https://github.com/paulolaque/rio-airbnb-pricingmodel-xgboost-rforest/blob/main/Airbnb_Rio_de_Janeiro_Pricing_Model_using_XGBoost_Random_Forest.ipynb). 
+ [Improved_Airbnb_Rio_de_Janeiro_Pricing_Model_using_XGBoost_Random_Forest.ipynb](https://github.com/paulolaque/randomsearchcv-nlp-improved-rio-airbnb-pricingmodel-xgboost/blob/main/Improved_Airbnb_Rio_de_Janeiro_Pricing_Model_using_XGBoost_Random_Forest.ipynb). 
 
 
 ## Results<a name="results"></a>
